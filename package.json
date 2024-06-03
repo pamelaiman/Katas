@@ -1,0 +1,18 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "main": "alternatingArray.js",
+  "devDependencies": {"eslint": "^7.28.0",
+  "jest": "^27.0.4",
+  "prettier": "^2.3.1"},
+  "scripts": {
+    "lint": "eslint src",
+    "format": "prettier --write src",
+    "format:check": "prettier --check src",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
