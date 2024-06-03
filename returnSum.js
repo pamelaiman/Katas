@@ -1,7 +1,7 @@
 sum = (a, b) => {
     return a + b}
 
-module.exports = "sum"
+module.exports = sum
 
 // console.log(sum(3, 2), "expected: 5")
 // console.log(sum(5, 5), "expected: 10")
